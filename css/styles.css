@@ -3211,7 +3211,7 @@ textarea.form-control-lg {
 }
 
 .btn-light {
-  color: #000;
+  color: #11111f;
   background-color: #f8f9fa;
   border-color: #f8f9fa;
 }
@@ -11337,7 +11337,7 @@ hr.divider {
 }
 
 hr.divider-light {
-  background-color: #fff;
+  background-color: #11111f;
 }
 
 #mainNav {
