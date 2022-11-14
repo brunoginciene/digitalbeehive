@@ -7817,6 +7817,12 @@ textarea.form-control-lg {
   background-color: #f1c400 !important;
 }
 
+.bg-primary-challange {
+  --bs-bg-opacity: 1;
+  padding-bottom: 64px !important;
+  
+}
+
 .bg-primary-app {
   --bs-bg-opacity: 1;
   background-color: #f1c400 !important;
@@ -11485,6 +11491,3 @@ header.masthead h1, header.masthead .h1 {
   opacity: 1;
 }
 
-ul {
-  list-style-type: none;
-}
