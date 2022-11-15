@@ -236,11 +236,11 @@ sup {
 }
 
 a {
-  color: #f4623a;
+  color: #f1c400;
   text-decoration: underline;
 }
 a:hover {
-  color: #c34e2e;
+  color: #f1c400;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -7875,6 +7875,11 @@ textarea.form-control-lg {
   background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
 }
 
+.bg-footer {
+  --bs-bg-opacity: 1;
+  background-color: #11111f !important;
+}
+
 .bg-dark {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
@@ -11376,6 +11381,10 @@ hr.divider-light {
   background-color: #11111f;
 }
 
+hr.divider-amarelo {
+  background-color: #f1c400;
+}
+
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   background-color: #11111f;
@@ -11489,7 +11498,7 @@ header.masthead h1, header.masthead .h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
+  background: rgba(241, 196, 0, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
