@@ -3215,6 +3215,13 @@ textarea.form-control-lg {
   background-color: #f8f9fa;
   border-color: #f8f9fa;
 }
+
+.btn-amarelo {
+  color: #11111f;
+  background-color: #f1c400;
+  border-color: #f1c400;
+}
+
 .btn-light:hover {
   color: #000;
   background-color: #f9fafb;
@@ -7820,6 +7827,13 @@ textarea.form-control-lg {
 .bg-primary-challange {
   --bs-bg-opacity: 1;
   padding-bottom: 64px !important;
+  
+}
+
+.bg-primary-solution {
+  --bs-bg-opacity: 1;
+  background-color: #483b00 !important;
+  height: 100vh;
   
 }
 
