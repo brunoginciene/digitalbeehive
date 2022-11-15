@@ -7838,6 +7838,13 @@ textarea.form-control-lg {
   
 }
 
+.bg-primary-solution2 {
+  --bs-bg-opacity: 1;
+  background-color: #fdf6d9 !important;
+  padding-bottom: 32px !important;
+  
+}
+
 .bg-primary-app {
   --bs-bg-opacity: 1;
   background-color: #f1c400 !important;
@@ -11515,3 +11522,7 @@ header.masthead h1, header.masthead .h1 {
   opacity: 1;
 }
 
+.botao {
+  padding-bottom: 50px;
+  background-color: #fdf6d9 !important;
+}
